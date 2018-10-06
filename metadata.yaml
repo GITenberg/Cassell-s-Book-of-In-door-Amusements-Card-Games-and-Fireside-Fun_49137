@@ -20,5 +20,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Cassell's Book of In-door Amusements, Card Games, and Fireside Fun
 url: http://www.gutenberg.org/ebooks/49137
